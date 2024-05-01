@@ -1,2 +1,2 @@
 # church-chatbot
-A simple chatbot demo for churches
+A simple chatbot demo for churches.
